@@ -3,6 +3,10 @@
 ## Overview
 This Travel App project is a web application that helps users plan their trips. It integrates multiple APIs to provide information about the destination, including weather forecasts, images, and other relevant details.
 
+## Requirements
+- Node.js version: **20.15.1**
+- npm version: **Latest compatible**
+
 
 
 ## Features
